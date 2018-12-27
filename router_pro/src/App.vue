@@ -1,6 +1,7 @@
 <template>
   <div id="app">
     <!--<img src="./assets/logo.png">-->
+    <h2>github change</h2>
     <router-view></router-view>
   </div>
 </template>
